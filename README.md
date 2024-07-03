@@ -33,8 +33,8 @@ AI Library is a web-based application that provides a curated collection of 500+
 
 ### Example
 #### Initial Screen
-![Initial Screen]<img width="1470" alt="Screenshot 2024-07-03 at 15 04 26" src="https://github.com/imtushaarr/ai-library-app/assets/92511269/8b9d6e83-578e-4825-a21f-60f96c396a19">
+<img width="1470" alt="Screenshot 2024-07-03 at 15 04 26" src="https://github.com/imtushaarr/ai-library-app/assets/92511269/8b9d6e83-578e-4825-a21f-60f96c396a19">
 
 
 ### Connect Us At Linkedin For Related Projects
-<a href="https://linkedin.com/in/imtushaarr">Linkedin</a>
+<a href="https://linkedin.com/in/imtushaarr" style="text-decoration: none">Linkedin</a>
